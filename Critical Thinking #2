@@ -1,0 +1,47 @@
+Travel Itinerary 
+Create a program to organize a travel itinerary. The program will store information about different destinations, including the city name, country, duration of stay, and budget. It will prompt the user to enter details for three destinations, validate the data types, and display this information in a structured format.
+
+Requirements:
+
+Variables: Use variables to store information about each destination.
+
+Casting: Ensure that the duration of stay and budget are stored as integers.
+Data Types: Use appropriate data types for different pieces of information.
+
+Lists: Store the details of the destinations in a list.
+
+Dictionaries: Use dictionaries to store information about each destination.
+
+Sample Input:
+Enter the name of the first city: Paris 
+Enter the name of the country for the first city: France
+Enter the duration of stay (in days) for the first city: 5
+Enter the budget (in dollars) for the first city: 1000
+
+Enter the name of the second city: Tokyo
+Enter the name of the country for the second city: Japan
+Enter the duration of stay (in days) for the second city: 7
+Enter the budget (in dollars) for the second city: 1500
+
+Enter the name of the third city: New York 
+Enter the name of the country for the third city: USA 
+Enter the duration of stay (in days) for the third city: 3 
+Enter the budget (in dollars) for the third city: 800
+
+Sample Out:
+Travel Itinerary:
+
+City: Paris
+Country: France
+Duration of Stay: 5 days
+Budget: $1000
+
+City: Tokyo
+Country: Japan
+Duration of Stay: 7days
+Budget: $1500
+
+City: New York
+Country: USA
+Duration of Stay: 3 days
+Budget: $800
