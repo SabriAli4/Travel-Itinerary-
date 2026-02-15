@@ -68,7 +68,7 @@ print(f'Budget: ${destinationList1[3]}')
 
 print('***Itinerary Check-Out 2***')
 print('City:', destinationList2[0])
-print('Country:', destinationList1[1])
+print('Country:', destinationList2[1])
 print(f'Duration: {destinationList2[2]} days')
 print(f'Budget: ${destinationList2[3]}')
 
@@ -95,3 +95,4 @@ print(f'Budget: ${destinationList3[3]}')
 
 
   
+
